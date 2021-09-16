@@ -1,0 +1,3 @@
+Author	Name	Data	Genre	Cost ID	User_ID	Data_out
+Tolstoy WarandPiece 1675 roman 189 1 0 0
+Dostoevskiy Idiot 1734 roman 165 2 0 0

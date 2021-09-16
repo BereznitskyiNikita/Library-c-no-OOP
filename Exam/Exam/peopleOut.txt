@@ -1,0 +1,4 @@
+FIO	B-Day		Number passport	Read ID	Count readed book	Count on hand
+Pupkin	02.03.04	EAN123456	1	12			1
+Sidorof	03.04.05	EAD234567	2	13			0
+Ivanov	02.05.2002	EAS128934	3	23			2

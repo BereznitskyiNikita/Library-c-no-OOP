@@ -1,0 +1,10 @@
+Idiot Dostoev roman 1734 165 1 0 0 0
+Lolita Nabokov novel 1955 145 2 0 0 0
+Illiada Homer roman 123 1200 3 0 0 0
+History Herodot roman 440 1350 4 0 0 0
+Capital Marks novel 1867 450 5 0 0 0
+Gamlet Shekspi roman 1603 670 6 0 0 0
+Tsytata Dzedun novel 1964 555 7 0 0 0
+Invisib Ellison roman 1952 750 8 0 0 0
+Ispoved Avgust roman 356 2550 9 0 0 0
+Lefiafa Hobbs novel 1651 670 10 0 0 0
